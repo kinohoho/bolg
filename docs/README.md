@@ -7,7 +7,7 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
+      name: 
       tagline: 微光
       text: 记录平凡中的细碎光芒 它不必耀眼，却始终明亮
       actions:
