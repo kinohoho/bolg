@@ -16,8 +16,8 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/bolg/',
   lang: 'zh-CN',
-  title: 'My Vuepress Site',
-  description: '',
+  title: '微光',
+  description: '记录平凡中的细碎光芒',
 
   head: [
     // 配置站点图标
