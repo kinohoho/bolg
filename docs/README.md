@@ -17,6 +17,6 @@ config:
           link: /blog/
         -
           theme: alt
-          text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          text: 由来 →
+          link: https://kinohoho.github.io/bolg/article/8ra99807/
 ---
