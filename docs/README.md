@@ -18,5 +18,5 @@ config:
         -
           theme: alt
           text: 由来 →
-          link: https://kinohoho.github.io/bolg/article/uugoj8mr/
+          link: https://kinohoho.github.io/bolg/article/7gjojhuf/
 ---
